@@ -1,0 +1,55 @@
+bit => 0 or 1 x 1 
+byte => 0 or 1 x 8 bit
+KiloByte (Kb) => x 1000 bytes
+Mb => 
+Gb
+
+base 
+0-9 |   have 10 numbers|  decimal
+0-7, |  8   |  octimal
+0-9,A,B,C,D,E,F |    16 characters | heximal 
+
+
+
+10 byte
+00010010 = 2 
+00010001 = 1
+
+00000100
+
+ 
+
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+
+1 & 1 = 1
+1 & 0 = 0
+
+
+operation: + - * / | & ^ ! 
+char (python do not have)
+str <=> char[]
+int 
+float, double
+tuple
+dict 
+list [] [1,2,3,4,5]
+
+Condition (boolean)
+>   : 1 > 2 => False
+    : 2 > 1 => True
+<   : 
+==  : 2 == 2 => True
+    : 1 == 2 => False
+!=
+True
+False
+0 
+1
