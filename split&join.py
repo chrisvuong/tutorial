@@ -1,0 +1,5 @@
+print("Input:")
+x = input(str("Write your sentence: "))
+x = x.split()
+print("Output:")
+print("-".join(x))
