@@ -1,0 +1,5 @@
+print("Input:")
+f_name = input(str("Enter your first name: "))
+l_name = input(str("Enter your last name: "))
+print("Out put:")
+print("Hello",f_name,l_name,"! You just delved into python.")
