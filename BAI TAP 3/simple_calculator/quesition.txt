@@ -1,0 +1,24 @@
+Create a simple calculator:
+When the user start the program it shows as:
+
+###############################
+Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+5.Convert
+Enter choice(1/2/3/4/5):
+###################################
+
+When user enter the option number, it will direct to a corresponse function and its input, like:
+1. When user select 1, add function ask to enter 2 number and returns the result 
+2. When user select 1, subtract function ask to enter 2 number and returns the result 
+3. When user select 1, multiply function ask to enter 2 number and returns the result 
+4. When user select 1, divide function ask to enter 2 number and returns the result 
+5. When user select 1, Convert function ask to enter a number and the base to convert: (limit base upto 20)
+    example: if function put base 2 => it will returns binary string
+    example: if function put base 16 => it will returns hex string
+
+When the output print out, ask the user again if he wants to keep going, if he types 'q' then quit, otherwise ask him select the option again
+
